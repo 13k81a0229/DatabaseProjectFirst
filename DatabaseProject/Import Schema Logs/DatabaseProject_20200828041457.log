@@ -1,0 +1,10 @@
+28-08-2020 21:44:57	This log contains information about the import schema operation into project 'DatabaseProject' on computer 'PFBADEV026' by user 'maheshreddym'.
+28-08-2020 21:44:57	Deserializing model
+28-08-2020 21:44:57	Resolving model
+28-08-2020 21:44:57	Visiting imported model for types
+28-08-2020 21:44:57	Scanning project for duplicate elements
+28-08-2020 21:44:57	Finished duplicate element processing
+28-08-2020 21:44:57	Processing extra files
+28-08-2020 21:44:57	Finished importing Data-tier Application file.
+28-08-2020 21:44:57	A summary of the import was saved to the following location: c:\users\maheshreddym\documents\visual studio 2013\Projects\DatabaseProject\DatabaseProject\Import Schema Logs\DatabaseProject_20200828041457.log
+28-08-2020 21:44:57	Click Finish to continue...
